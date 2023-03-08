@@ -12,3 +12,10 @@
     height: 10%;
     margin: 1rem 5rem;
 }
+
+.block2 {
+    width: 10rem;
+    background: blue;
+    height: 20%;
+    margin: 1rem 3rem;
+}
