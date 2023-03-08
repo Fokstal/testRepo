@@ -12,3 +12,9 @@
     height: 20%;
     margin: 1rem 3rem;
 }
+
+.name {
+    background: green;
+    width: 10rem;
+    height: 10rem;
+}
